@@ -1,0 +1,14 @@
+#input
+{
+    width: 30%;
+    height: 40px;
+    font-size: 20px;
+}
+
+canvas
+{
+    border: wpx solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
